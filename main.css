@@ -1,0 +1,20 @@
+.gridcontainer{
+		width:500px;
+		height: 500px;
+}
+.row div{
+		outline: 1px solid black;
+		width: 50px;
+		height: 50px;
+		float:left;
+}
+.nrcolumn {
+		height: 500px;
+		width: 50px;
+}
+.nrcolumn div{
+		outline: 1px solid red;
+		width: 50px;
+		height: 50px;
+		float:left;
+}
