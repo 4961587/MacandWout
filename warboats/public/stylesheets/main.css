@@ -1,47 +1,3 @@
-/* 
-.battlecontainer {
-	width: auto;
-	display: inline-grid;
-	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr
-}
-
-.indicatorrow div {
-	outline: 1px solid black;
-	height: 49px;
-	width: 49px;
-	display: inline-block;
-}
-
-.nrcolumn {
-	height: 50px;
-	width: 50px;
-}
-
-.nrcolumn div {
-	outline: 1px solid black;
-	background: green;
-	width: 50px;
-	height: 50px;
-	display: inline-block;
-}
-
-body {
-	background: rgb(255, 255, 255);
-}
-
-.gridcontainer {
-	width: auto;
-	height: 500px;
-}
-
-.row div {
-	outline: 1px solid black;
-	background: turquoise;
-	width: 50px;
-	height: 50px;
-	display: inline-block;
-} */
-
 .field {
 	height: 49px;
 	width: 49px;
@@ -61,7 +17,7 @@ body {
 
 h1 {
 	color: rgb(219, 68, 69);
-	font-family: "Orator Std";
+	font-family: "Averia Sans Libre", ;
 }
 
 #divider {
